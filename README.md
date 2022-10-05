@@ -1,4 +1,3 @@
-# WEB 303 Assignment-02
-Angela Myers
-0796187
+# WEB 303 Assignment-01
 
+This is where I will store all of my assignments from WEB 303
