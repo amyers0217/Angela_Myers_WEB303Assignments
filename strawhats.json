@@ -1,0 +1,38 @@
+{"pirates":[
+    {
+       "name": "Mokey D, Luffy",
+       "piratecrew": "Straw Hat Pirates",
+       "position": "Captain",
+       "age": "19",
+       "devilfruitpower": "Gum-Gum Fruit"
+    },
+    {
+        "name": "Portgas D, Ace",
+        "piratecrew": "Whitebeard Pirates",
+        "position": "2nd Division Commander",
+        "age": "20",
+        "devilfruitpower": "Flame-Flame Fruit"
+     },
+     {
+        "name": "Trafalgar D. Water Law",
+        "piratecrew": "Heart Pirates",
+        "position": "Captain",
+        "age": "26",
+        "devilfruitpower": "Op-Op Fruit"
+     },
+     {
+        "name": "Nico Robin",
+        "piratecrew": "Straw Hat Pirates",
+        "position": "Archaeologist",
+        "age": "30",
+        "devilfruitpower": "Flower-Flower Fruit"
+     },
+     {
+        "name": "Donquixote Doflamingo",
+        "piratecrew": "Donquixote Pirates",
+        "position": "Captain",
+        "age": "41",
+        "devilfruitpower": "String-String Fruit"
+     },
+
+]}
